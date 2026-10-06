@@ -22,10 +22,10 @@ Class labels:
 0 = On-year
 1 = Off-year
 2 = Other / non-MBF
-Usage
+## Usage
 Run the scripts in the Google Earth Engine JavaScript Code Editor and replace the user-specific asset paths with your own GEE assets.
 For workflow re-application, run Script 01 first to generate local automatic samples, then use them in Script 02.
-Citation
+## Citation
 Li, X., Li, L., Li, N., et al.
 Mapping on- and off-year Moso bamboo forests across regions with automatically generated training samples.
 Remote Sensing of Environment.
