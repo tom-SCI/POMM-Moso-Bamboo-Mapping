@@ -21,7 +21,6 @@ The scripts use:
 - Sentinel-2 SR Harmonized
 - AlphaEarth Foundations (AEF)
 - ESA WorldCover
-- SRTM DEM
 - User-provided ROI and sample assets
 
 Class labels:
